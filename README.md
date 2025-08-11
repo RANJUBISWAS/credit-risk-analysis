@@ -1,5 +1,5 @@
 # credit-risk-analysis
-**Description:** This repo explores the tools and techniques to analyse credit risk
+**Description:** This repo explores the tools and techniques to analyse credit risk.
 
 ### Installation:
 0. Install uv.
